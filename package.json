@@ -1,0 +1,8 @@
+{
+  "name": "webpack-repos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:chenxsan/webpack-repos.git",
+  "author": "chenxsan <chenxsan@gmail.com>",
+  "license": "MIT"
+}
